@@ -22,7 +22,7 @@ So here are some of your highlights of the event:
 
 - My hands-on workshop on 'Jupyter notebooks for reproducible research'. I was ecstatic to know the community found this workshop interesting and had to run this twice!!!
 
-- [any others?]
+- Also, I'd like to casually throw in here that I have been elected as a committee member for the UK RSE association, so expect to read more about this in this blog.
 
 ## Our workshop on Jupyter notebooks for reproducible research
 Being a RSE means that I serve as an advocate of sustainable software development. In addition, I am greatly concerned about reproducibility and replicability in science.
@@ -55,4 +55,8 @@ This lead to an incredible discussion on its place within conventional testing a
 ## Wrapping up
 The closing to the workshop was a 101 on working towards reproducible scientific computing. We shared some of our approaches for reproducible workflows and encouraged the delegates to share theirs. We covered topics such as valuing your digital assets, licensing, automation, version control and continuous integration, among others.
 
-We also highlighted that all of the workshop materials can be found at [https://github.com/trallard/JNB_reproducible](https://github.com/trallard/JNB_reproducible) and it is completely self contained as a Docker container.
+The perfect close to an amazing RSE conference!
+
+Finally we'd like to highlight that all the materials for the workshop can be found at: [https://github.com/trallard/JNB_reproducible](https://github.com/trallard/JNB_reproducible) and that all of it is completely self contained in the form of a Docker container.
+
+If you missed out on the conference and would like to see the videos and slides of the various talks do not forget to visit [www.rse.ac.uk](www.rse.ac.uk).
