@@ -10,28 +10,49 @@ RSE team members Mozghan and Tania were involved in the organising committee as 
 
 ## Conference highlights
 
-With so many parallel sessions, workshops, and chats happening all at the same time it is quite complicated to keep a track of every single thing going on. And it seems rather unlikely that this will change over time as it was **evident** that the RSE community has outgrown the current conference size... in just 2 years!
-So we decided to highlight our favorites of the event:
+With so many parallel sessions, workshops, and chats happening all at the same time it is quite complicated to keep a track of every single thing going on. And it seems rather unlikely that this will change over time as it was **evident** that the RSE community has outgrown the current conference size.
+So here are some of your highlights of the event:
 
- - The talk on 'Imposter syndrome' [need to insert speaker]. Who in the scientific community has not ever experienced this? Exactly! So when given the chance everyone jumped into this talk full of relatable stories, and handy tips on how to get over it?
+ - The talk on 'Imposter syndrome' [need to insert speaker]. Who in the scientific community has not ever experienced this? Exactly! So when given the chance everyone jumped into this talk full of relatable stories and handy tips on how to get over it.
 
 - Another talk that seemed to have gathered loads of interest was that of
-[Toby Hodges](https://twitter.com/tbyhdgs) from  EMBL on community building. This came as no surprise to me as RSEs are often in charge of building communities or acting as a bridge between collaborating communities. Opposed to _just_ develop code and sitting in front of a computer.
+[Toby Hodges](https://twitter.com/tbyhdgs) from  EMBL on community building. This came as no surprise (at least to me) as RSEs often act as community builders or as a bridge between collaborating communities. Opposed to _just_ being focused on developing software and pushing it into production.
 
-- During the first day the RSEs had the chance to have a go at interacting with the [Microsoft Hololens](https://www.microsoft.com/en-gb/hololens). Everyone seemed to be having a great time doing so... unfortunately we did not have the chance to try it ourselves
+- During the first day the RSEs had the chance to have a go at interacting with the [Microsoft Hololens](https://www.microsoft.com/en-gb/hololens). There was a considerable queue to have a go at this, and unfortunately, we were not among the chosen ones to play with this. Maybe in the future.
 
 - My hands-on workshop on 'Jupyter notebooks for reproducible research'. I was ecstatic to know the community found this workshop interesting and had to run this twice!!!
 
 - [any others?]
 
-## Our workshop on reproducible research
+## Our workshop on Jupyter notebooks for reproducible research
 Being a RSE means that I serve as an advocate of sustainable software development. In addition, I am greatly concerned about reproducibility and replicability in science.
-Thankfully, there are loads of tools and practices that we can adopt as part of our workflows to ensure that the code we develop is done by following the best practices possible.
+Which, I might add, is no easy task.
+Thankfully, there are loads of tools and practices that we can adopt as part of our workflows to ensure that the code we develop is done by following the best practices possible, and as a consequence, can support science accordingly.
 
-Naturally, as members of the community come up with more refined and powerful tools in the realm of scientific computing we (the users and other developers) adopt some of those tools and, as a consequence, we often end up modifying our workflows.
+Naturally, as members of the community come up with more refined and powerful tools in the realm of scientific computing we (the users and other developers) adopt some of those tools meaning that we often end up modifying our workflows.
 
-Such is the case of Jupyter notebooks. They brought up to life a whole new era of literate programming: where scientist, students, data scientist, and aficionados can share their scripts in a human readable format. They transform scripts into a conveying scientific narrative where functions and loops are followed by their graphical outputs or allow the user to interact via widgets. The notebooks are a step closer to reproducibility in science.
+Such is the case of Jupyter notebooks. They brought up to life a whole new era of literate programming: where scientist, students, data scientist, and aficionados can share their scripts in a human readable format. What is more important, they transform scripts into a conveying scientific narrative where functions and loops are followed by their graphical outputs or allow the user to interact via widgets. This ability to openly share whole analysis pipelines is for sure, a step closer to reproducibility in science.
 
-However, the adoption of this tool means that our traditional version control (including diff and merge tools) are not completely compatible. What is more if we are pushing towards reproducibility we **have to test** the code.
+However, the adoption of tools like this means that our traditional version control tools (including diff and merge tools) are no longer completely compatible. Also, as any other piece of software the notebooks have to be tested if we want the scientific community to trust what we are presenting there.
 
-Hence, I presented nbdime and nbval, tools developed as part of the [European funded project OpenDreamKit](www.opendreamkit.org). 
+During the workshop, I introduced two tools: [nbdime](https://github.com/jupyter/nbdime) and [nbval](https://github.com/computationalmodelling/nbval), which were developed as part of the European funded project: [OpenDreamKit](www.opendreamkit.org). Such tools introduce very much needed version control and validation capabilities to the Jupyter notebooks. Thus it was divided in three main parts: diffing and merging of the notebooks, notebooks validation, and a brief 101 on reproducibility practices.
+
+## Notebooks diffing and merging
+During the first part of the workshop the attendees shared their experiences using traditional version control tools with Jupyter notebooks... unsurprisingly everyone had had terrible experiences.
+
+And just earlier this week this tweet showed up on my feed:
+![tweet](tweet-nbdime.PNG)
+
+Then all of them had some hands-on time on how to use nbdime for diffing and merging from the command line as well as from their rich html rendered version (completely offline).
+
+## Notebooks validation
+The second part of the workshop focused on the validation of the notebooks. And here I would like to ask this first: _'How many of you have found an amazing notebook somewhere in the web just to clone it and find out that it just does not work: dependencies are broken, functions are deprecated, can't tell if the results are reproducible?_
+
+I can tell you, we have all been there. And in such cases nbval is your best friend. It is a **py.test** plugin to determine whether execution of the stored inputs match the stored outputs of the `.ipynb` file. Whilst also ensuring that the notebooks are running without errors.
+
+This lead to an incredible discussion on its place within conventional testing approaches. Certainly, it does not replace unittesting or integration testing, but it could be seen as a form of _regression_ testing for the notebooks.
+
+## Wrapping up
+The closing to the workshop was a 101 on working towards reproducible scientific computing. We shared some of our approaches for reproducible workflows and encouraged the delegates to share theirs. We covered topics such as valuing your digital assets, licensing, automation, version control and continuous integration, among others.
+
+We also highlighted that all of the workshop materials can be found at [https://github.com/trallard/JNB_reproducible](https://github.com/trallard/JNB_reproducible) and it is completely self contained as a Docker container.
