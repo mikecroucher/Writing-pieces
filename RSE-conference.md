@@ -3,13 +3,13 @@
 
 <img src='RSE17.jpg'/ alt='RSE17'/>
 
-The second RSE conference took place on the 7th and 8th of September 2017 at the
+The second international Research Software Engieering (RSE) conference took place on the 7th and 8th of September 2017 at the
 Museum of Science and Industry [MOSI](https://www.msimanchester.org.uk/).
 There were over 200 attendees, 40 talks, 15  workshops,
 3 keynote talks, one of which was given by our very own head honcho Mike Croucher
 (slides [here](https://mikecroucher.github.io/RSE_2017_keynote_presentation/)), and geeky chats galore.
 
-RSE team members Mozghan and Tania were involved in the organising committee as talks co-chairs and diversity chair (disclose: they had nothing to do with Mike's keynote). Also, all of the RSE Sheffield team members made it to the conference, which seems to be a first due to the diverse commitments and project involvement of all of us.
+RSE team members Mozghan and Tania were involved in the organising committee as talks co-chairs and diversity chair. Also, all of the RSE Sheffield team members made it to the conference, which seems to be a first due to the diverse commitments of all of us.
 
 Once again, the event was a huge success thanks to the efforts of the committee and volunteers as well as the amazing RSE community that made this a en engaging and welcoming event.
 
@@ -54,8 +54,7 @@ During the first part of the workshop the attendees shared their experiences usi
 Then all of them had some hands-on time on how to use nbdime for diffing and merging from the command line as well as from their rich html rendered version (completely offline).
 As we progressed with the tutorial I could see some happy faces around the room and they all agreed that this was much needed.
 
-Need more convincing? This tweet showed up in my feed just this week
-And just earlier this week this tweet showed up on my feed:
+Need more convincing? This tweet showed up in my feed just this week:
 <img src='tweet-nbdime.PNG' width='500px'>
 
 ## Notebooks validation
@@ -64,7 +63,7 @@ The second part of the workshop focused on the validation of the notebooks. And 
 I can tell you, we have all been there. And in such cases nbval is your best friend. It is a **py.test** plugin to determine whether execution of the stored inputs match the stored outputs of the `.ipynb` file. Whilst also ensuring that the notebooks are running without errors.
 
 This lead to an incredible discussion on its place within conventional testing approaches. Certainly, it does not replace unittesting or integration testing, but it could be seen as a form of _regression_ testing for the notebooks. Want to make sure that your awesome documentation
-formed by Jupyter notebooks is still working in a few months time? Why not use CI and nbval?
+formed by Jupyter notebooks is still working in a few months time? Why not use Continuous Integration and nbval?
 
 ## Wrapping up
 The closing to the workshop was a 101 on working towards reproducible scientific computing. We shared some of our approaches for reproducible workflows and encouraged the delegates to share theirs. We covered topics such as valuing your digital assets, licensing, automation, version control and continuous integration, among others.
