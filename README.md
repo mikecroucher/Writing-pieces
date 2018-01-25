@@ -6,7 +6,7 @@ Bits of writing pieces I am currently working on. These might end up being publi
 ## Published
 | Title                                                                | Published                                                                |
 |----------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [Code First meets Hacktoberfest](./CodeFirst meets Hacktoberfest.md) | [www.rse.shef.ac.uk](www.rse.shef.ac.uk)                                 |
+| [Code First meets Hacktoberfest]("./CodeFirst meets Hacktoberfest.md") | [www.rse.shef.ac.uk](www.rse.shef.ac.uk)                                 |
 | [RSE-conference](./RSE-conference.md)                                | [www.rse.shef.ac.uk](www.rse.shef.ac.uk) SWC blog (need to add the link) |
 
 ## Drafts
@@ -23,5 +23,5 @@ Bits of writing pieces I am currently working on. These might end up being publi
 | SSI fellowship: Sheffield fellow profiles | Mike Croucher!!                   |
 | SSI fellowship inaugural meeting          | Remember to take pics on the day  |
 
-## Additional writeups (not blogs)
+## Additional write ups (not blogs)
 - ODK report: in progress, to be completed by February 5th 2018 (template in the ODK repository)
