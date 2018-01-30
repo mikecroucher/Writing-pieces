@@ -7,7 +7,7 @@ Bits of writing pieces I am currently working on. These might end up being publi
 | Title                                                                | Published                                                                |
 |----------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [Code First meets Hacktoberfest](CFG_meets_HAcktoberfest.md) | [www.rse.shef.ac.uk](www.rse.shef.ac.uk)                                 |
-| [RSE-conference](./RSE-conference.md)                                | [www.rse.shef.ac.uk](www.rse.shef.ac.uk) SWC blog [here]((https://software-carpentry.org/blog/2018/01/rse-conf-repost.html) |
+| [RSE-conference](./RSE-conference.md)                                | [www.rse.shef.ac.uk](www.rse.shef.ac.uk) SWC blog [here](https://software-carpentry.org/blog/2018/01/rse-conf-repost.html) |
 
 ## Drafts
 | Title                                       | Expected end Date | Comments                      |
@@ -24,4 +24,4 @@ Bits of writing pieces I am currently working on. These might end up being publi
 | SSI fellowship inaugural meeting          | Remember to take pics on the day  |
 
 ## Additional write ups (not blogs)
-- ODK report: in progress, to be completed by February 5th 2018 (template in the ODK repository)
+- [ODK report: in progress, to be completed by February 5th 2018](./ODK_report_MArch17_Jan18.md)
