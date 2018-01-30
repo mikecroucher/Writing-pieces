@@ -6,7 +6,7 @@ Bits of writing pieces I am currently working on. These might end up being publi
 ## Published
 | Title                                                                | Published                                                                |
 |----------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [Code First meets Hacktoberfest]("./CodeFirst meets Hacktoberfest.md") | [www.rse.shef.ac.uk](www.rse.shef.ac.uk)                                 |
+| [Code First meets Hacktoberfest](CFG_meets_HAcktoberfest.md) | [www.rse.shef.ac.uk](www.rse.shef.ac.uk)                                 |
 | [RSE-conference](./RSE-conference.md)                                | [www.rse.shef.ac.uk](www.rse.shef.ac.uk) SWC blog (need to add the link) |
 
 ## Drafts
