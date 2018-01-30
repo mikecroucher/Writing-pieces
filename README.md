@@ -7,7 +7,7 @@ Bits of writing pieces I am currently working on. These might end up being publi
 | Title                                                                | Published                                                                |
 |----------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [Code First meets Hacktoberfest](CFG_meets_HAcktoberfest.md) | [www.rse.shef.ac.uk](www.rse.shef.ac.uk)                                 |
-| [RSE-conference](./RSE-conference.md)                                | [www.rse.shef.ac.uk](www.rse.shef.ac.uk) SWC blog (need to add the link) |
+| [RSE-conference](./RSE-conference.md)                                | [www.rse.shef.ac.uk](www.rse.shef.ac.uk) SWC blog [here]((https://software-carpentry.org/blog/2018/01/rse-conf-repost.html) |
 
 ## Drafts
 | Title                                       | Expected end Date | Comments                      |

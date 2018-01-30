@@ -23,7 +23,7 @@ period: Reporting period from March 2017 to January 2018
 
 ---
 ## Hiring
-Not Applicable 
+Not Applicable
 
 ---
 ## Achievements
@@ -37,7 +37,7 @@ Science, Bioinformatics, and Materials Science.
 sections for students having courses in CoCalc as well as with a hands-on
 tutorial for lecturers to get started. The material can be found as a website at [https://tutorial.cocalc.com/](https://tutorial.cocalc.com/) (The repository for this is located at:[https://github.com/sagemathinc/cocalc_tutorial](https://github.com/sagemathinc/cocalc_tutorial)).
 - Widened dissemination activities.
-- Mike Croucher's EPSRC fellowship is expanding pur agenda and remit nationwide.
+- Mike Croucher's EPSRC fellowship is expanding our agenda and remit nationwide.
 - Developed a [Jekyll template](https://github.com/trallard/Modules-template)
 for use by academics and researchers using Jupyter notebooks for course materials and dissemination.
 - Developed a Python package:  [nbjekyll](https://github.com/trallard/nbjekyll) that complements the Jekyll template developed.
