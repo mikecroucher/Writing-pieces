@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Sheffield"
 theme: white
 transition: none
-author: Michael Croucher and Neil Lawrence
+author: Michael Croucher 
 period: Reporting period from March 2017 to January 2018
 ---
 
@@ -43,12 +43,13 @@ for use by academics and researchers using Jupyter notebooks for course material
 - Developed a Python package:  [nbjekyll](https://github.com/trallard/nbjekyll) that complements the Jekyll template developed.
 This package converts Jupyter notebooks into .md files that can be readily usable by Jekyll. It also uses nbval to perform notebook validation and add custom headers indicating the last update date, version and test status of the notebook.
 
---
+---
+
 ## Work in progress
 
 - Involvement in the Machine Learning Network: working with the Machine Learning group at Sheffield to leverage the use of Jupyter notebooks and related technologies (e.g. code cafe, coding dojos)
-- Development of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (we aim to run a sprint for the first volume)
-- Development of a data analytics course for women and individual that identify themselves as women
+- Development of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (the first volume will be generated from a sprint/hackathon)
+- Development of a data analytics course for women and individuals that identify themselves as women.
 
 ---
 ## Workshops and dissemination activities
