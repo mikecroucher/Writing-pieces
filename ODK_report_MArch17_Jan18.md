@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Sheffield"
 theme: white
 transition: none
-author: Michael Croucher 
+author: Michael Croucher
 period: Reporting period from March 2017 to January 2018
 ---
 
@@ -23,7 +23,7 @@ period: Reporting period from March 2017 to January 2018
 
 ---
 ## Hiring
-
+Not Applicable 
 
 ---
 ## Achievements
@@ -48,7 +48,7 @@ This package converts Jupyter notebooks into .md files that can be readily usabl
 ## Work in progress
 
 - Involvement in the Machine Learning Network: working with the Machine Learning group at Sheffield to leverage the use of Jupyter notebooks and related technologies (e.g. code cafe, coding dojos)
-- Development of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (the first volume will be generated from a sprint/hackathon)
+- Creation of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (the first volume will be generated from a sprint/hackathon)
 - Development of a data analytics course for women and individuals that identify themselves as women.
 
 ---
@@ -57,11 +57,11 @@ This package converts Jupyter notebooks into .md files that can be readily usabl
 - Workshop on Jupyter notebooks for reproducible research (RSE conference September 2017, [https://github.com/trallard/JNB_reproducible](https://github.com/trallard/JNB_reproducible))
 - Blog post on the RSE conference and workshop was published in the [RSE Sheffield blog](www.rse.shef.ac.uk/blog) and reposted in the [Software Carpentries Blog](https://software-carpentry.org/blog/2018/01/rse-conf-repost.html).
 - Bioinformatics Awareness Days [https://github.com/trallard/BAD_days](https://github.com/trallard/BAD_days)
-- Developed training materials and provided training for over 95 women in the last 12 months at Sheffield and Manchester in partnership with CodeFirstGirls
-- Participation in the Diversity and Inclusion in Scientific Computing unconference by direct invite of NUMFOCUS
+- Developed training materials and provided training for over 95 women in the last 12 months at Sheffield and Manchester in partnership with CodeFirstGirls.
+- Participation in the Diversity and Inclusion in Scientific Computing unconference by direct invite of NUMFOCUS.
 
 
---
+---
 ## Other
 
 
