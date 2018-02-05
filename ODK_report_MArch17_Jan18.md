@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Sheffield"
 theme: white
 transition: none
-author: Michael Croucher
+author: Tania Allard, Michael Croucher
 period: Reporting period from March 2017 to January 2018
 ---
 
@@ -50,6 +50,7 @@ This package converts Jupyter notebooks into .md files that can be readily usabl
 - Involvement in the Machine Learning Network: working with the Machine Learning group at Sheffield to leverage the use of Jupyter notebooks and related technologies (e.g. code cafe, coding dojos)
 - Creation of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (the first volume will be generated from a sprint/hackathon)
 - Development of a data analytics course for women and individuals that identify themselves as women.
+- Workshop on reproducible workflows using the Jupyter notebooks (PyCon 2018)
 
 ---
 ## Workshops and dissemination activities
@@ -63,7 +64,6 @@ This package converts Jupyter notebooks into .md files that can be readily usabl
 
 ---
 ## Other
-
 
 
 </section>
