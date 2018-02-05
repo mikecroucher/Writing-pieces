@@ -28,6 +28,7 @@ Not Applicable
 ---
 ## Achievements
 
+- Developed and delivered a workshop on using Jupyter notebooks for reproducible research for the 2nd international Research Software Engineering conference. The workshop was one of the most popular across the entire conference and, as such, we were asked to deliver it twice in order to meet demand.  http://rse.shef.ac.uk/blog/a-successful-2nd-rse-conference/ 
 - Supported a number of lecturers in Sheffield to migrate to Jupyter and CoCalc
 (formerly SageMathCloud). Also, provided continued support to those that ad already been using CoCalc and
 Jupyter notebooks for their courses.
